@@ -1,0 +1,15 @@
+{
+  "name": "command-line-inventory-projekt",
+  "version": "1.0.0",
+  "description": "A repository for the best Inventory App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Smith, Janine",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
