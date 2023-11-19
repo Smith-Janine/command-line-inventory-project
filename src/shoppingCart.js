@@ -18,7 +18,7 @@ const cartFilePath = resolve(__dirname, './data/shoppingCart.json');
     fs.writeFileSync(cartFilePath, data, 'utf8');
    };
    
-   const getCart = () => getCartFromFile();
+const getCart = () => getCartFromFile();
 const addToCart = (itemId, quantity) => {
  const cart = getCart();
  const item = getItem(itemId);

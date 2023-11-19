@@ -1,44 +1,44 @@
 [
-    {
-      "id": "arbitrary-unique-id-1",
-      "name": "Book of Positive Affirmations",
-      "priceInCents": 1299,
-      "category": "Affirmation Book"
-    },
-    {
-      "id": "arbitrary-unique-id-2",
-      "name": "Mindful Cooking: Recipes for Joy",
-      "priceInCents": 1499,
-      "category": "Recipe Book"
-    },
-    {
-      "id": "arbitrary-unique-id-3",
-      "name": "Gratitude Journal",
-      "priceInCents": 999,
-      "category": "Journal Book"
-    },
-    {
-      "id": "arbitrary-unique-id-4",
-      "name": "You Got This!",
-      "priceInCents": 1199,
-      "category": "Self-Help Book"
-    },
-    {
-      "id": "arbitrary-unique-id-5",
-      "name": "Cookbook Tips, Trick and Techniques",
-      "priceInCents": 1699,
-      "category": "Recipe Book"
-    },
-    {
-      "id": "arbitrary-unique-id-6",
-      "name": "Reflections Journal",
-      "priceInCents": 899,
-      "category": " Travel Journal Book"
-    },
-    {
-      "id": "arbitrary-unique-id-7",
-      "name": "Mind Body Connection",
-      "priceInCents": 1399,
-      "type": "Mindfulness Book"
-    }
-  ]
+  {
+    "id": "arbitrary-unique-id-1",
+    "name": "Book of Positive Affirmations",
+    "priceInCents": 1299,
+    "category": "Affirmation Book"
+  },
+  {
+    "id": "arbitrary-unique-id-2",
+    "name": "Mindful Cooking: Recipes for Joy",
+    "priceInCents": 1499,
+    "category": "Recipe Book"
+  },
+  {
+    "id": "arbitrary-unique-id-3",
+    "name": "Gratitude Journal",
+    "priceInCents": 999,
+    "category": "Journal Book"
+  },
+  {
+    "id": "arbitrary-unique-id-4",
+    "name": "You Got This!",
+    "priceInCents": 1199,
+    "category": "Self-Help Book"
+  },
+  {
+    "id": "arbitrary-unique-id-5",
+    "name": "Cookbook Tips, Trick and Techniques",
+    "priceInCents": 1699,
+    "category": "Recipe Book"
+  },
+  {
+    "id": "arbitrary-unique-id-6",
+    "name": "Reflections Journal",
+    "priceInCents": 899,
+    "category": " Travel Journal Book"
+  },
+  {
+    "id": "arbitrary-unique-id-7",
+    "name": "Mind Body Connection",
+    "priceInCents": 1399,
+    "type": "Mindfulness Book"
+  }
+]

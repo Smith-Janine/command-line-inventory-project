@@ -9,7 +9,9 @@
     "update": "npm run-script",
     "delete": "npm run-script",
     "getLocationOfEvent": "npm run-script",
-    "test": "jest"
+    "test": "jest",
+    "test1": "jest ./__test__/inventoryItem.test.js",
+    "test2": "jest ./__test__/shoppingCart.test.js"
   },
   "author": "",
   "license": "ISC",

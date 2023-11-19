@@ -1,11 +1,11 @@
 const fs = require('fs');
-const shoppingCartModule = require('./data/shoppingCart');
+const shoppingCartModule = require('../data/shoppingCart.json');
 
 const {
   addToCart,
   viewCart,
   clearCart,
-} = require('../data/shoppingCart');
+} = require('../src/shoppingCart');
 
 // Path to the JSON files
 const dataFilePath = '../data/inventoryItems.json';
