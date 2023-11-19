@@ -1,0 +1,32 @@
+{
+    "1": {
+      "item": {
+        "id": "arbitrary-unique-id-1",
+        "name": "Book of Positive Affirmations",
+        "priceInCents": 1299,
+        "category": "Affirmation Book"
+      },
+      "quantity": 2,
+      "totalPrice": 2598
+    },
+    "3": {
+      "item": {
+        "id": "arbitrary-unique-id-3",
+        "name": "Gratitude Journal",
+        "priceInCents": 999,
+        "category": "Journal Book"
+      },
+      "quantity": 1,
+      "totalPrice": 999
+    },
+    "5": {
+      "item": {
+        "id": "arbitrary-unique-id-5",
+        "name": "Cookbook Tips, Trick and Techniques",
+        "priceInCents": 1699,
+        "category": "Recipe Book"
+      },
+      "quantity": 3,
+      "totalPrice": 5097
+    }
+  }
